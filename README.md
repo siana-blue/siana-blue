@@ -1,5 +1,5 @@
-Je m'appelle Anaïs, je suis en pleine reconversion professionnelle dans le développement d'applications, et ceci est ma collection de projets en tout genre :)
-La plupart d'entre eux datent de plusieurs (plusieurs !) années, mais je suis également en cours de développement d'un petit site web pour le cinéma de ma ville.
+Je m'appelle Anaïs Vernet, je suis en reconversion professionnelle dans le développement d'applications, et ceci est ma collection de projets en tout genre !
+La plupart d'entre eux datent de plusieurs années, mais je suis également en cours de développement d'un petit site web pour le cinéma de ma ville.
 
 # Site du cinéma
 
