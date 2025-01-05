@@ -6,8 +6,9 @@ La plupart d'entre eux datent de plusieurs années, mais je suis également en c
 Une version démo est disponible sur le cloud AWS à l'adresse suivante :
 http://ec2-13-39-86-17.eu-west-3.compute.amazonaws.com/
 
-(attention cette adresse change à chaque redémarrage du serveur, je mets à jour ici dans ce cas ==> je ne souhaite pas payer pour une IP publique sur Amazon pour le moment :) )
-(sur Android il est probable que le lien ci-dessus soit automatiquement converti en HTTPS, cela ne marchera pas car tout le site est en HTTP il faudra modifier l'URL - c'est peut-être pareil pour Apple)
+Attention :
+* cette adresse change à chaque redémarrage du serveur, je mets à jour ici dans ce cas ==> je ne souhaite pas payer pour une IP publique sur Amazon pour le moment :)
+* sur Android il est probable que le lien ci-dessus soit automatiquement converti en HTTPS, cela ne marchera pas car tout le site est en HTTP il faudra modifier l'URL - c'est peut-être pareil pour Apple
 
 Mot de passe admin/lapin comme indiqué dans la notice, si vous voulez jouer à modifier la programmation de ce cinéma fictif (c'est tout ce que vous pourrez faire).
 Tout est en HTTP et en clair, notamment l'envoi du mot de passe "lapin", ce que les antivirus n'apprécient guère il faudra ajouter le site aux exceptions (probablement).
