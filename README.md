@@ -4,8 +4,9 @@ La plupart d'entre eux datent de plusieurs années, mais je suis également en c
 # Site du cinéma
 
 Une version démo est disponible sur le cloud AWS à l'adresse suivante :
-http://ec2-35-180-227-153.eu-west-3.compute.amazonaws.com/
+http://ec2-13-39-86-17.eu-west-3.compute.amazonaws.com/
 
+(attention cette adresse change à chaque redémarrage du serveur, je mets à jour ici dans ce cas ==> je ne souhaite pas payer pour une IP publique sur Amazon pour le moment :) )
 (sur Android il est probable que le lien ci-dessus soit automatiquement converti en HTTPS, cela ne marchera pas car tout le site est en HTTP il faudra modifier l'URL - c'est peut-être pareil pour Apple)
 
 Mot de passe admin/lapin comme indiqué dans la notice, si vous voulez jouer à modifier la programmation de ce cinéma fictif (c'est tout ce que vous pourrez faire).
